@@ -39,3 +39,16 @@ section {
     color: #0044aa;
     text-decoration: none;
 }
+.nasa-img {
+    width: 220px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+
+.img-caption {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 5px;
+    max-width: 220px;
+    line-height: 1.3;
+}
